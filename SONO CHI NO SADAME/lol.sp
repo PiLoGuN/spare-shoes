@@ -4,14 +4,14 @@
 
 public Plugin:myinfo = 
 {
-	name = "MEEEEI",
-	author = "ME",
-	description = "sasha_loh",
+	name = "Who_is_thot",
+	author = "PiLoGuN",
+	description = "Did your a thot maybe yes",
 	version = "1.0",
 	url = "<- URL ->"
 }
 
 public OnPluginStart()
 {
-	
+	public CreateConVar()
 }
